@@ -1,11 +1,15 @@
+<p align="center">
+  <img src="./banner.png" alt="Amirreza Soltani – AI Backend Engineer" width="100%" />
+</p>
+
 # Hi, I'm Amirreza Soltani 👋
 
 ### AI Backend Engineer · Data & Automation Systems · ERP / SaaS / AI Agents
-📍 Berlin, Germany · 🎓 M.Sc. Artificial Intelligence @ SRH University Berlin
+📍 Berlin, Germany · 🎓 M.Sc. Artificial Intelligence, SRH University Berlin (2026)
 
 I'm a computer engineer focused on **AI backends, data extraction, ERP-style business systems and Docker-based deployment**. I turn real business workflows into reliable APIs, data models and user-facing tools, and I've built and deployed multiple SaaS and ERP platforms used in production.
 
-🟢 **Open to work:** AI Backend, Backend and Full-Stack Engineer roles in Berlin (on-site, hybrid or remote)
+🟢 **Open to work:** AI Backend, Backend and Full-Stack Engineer roles in Germany (on-site, hybrid or remote)
 
 ---
 
@@ -56,7 +60,7 @@ I'm a computer engineer focused on **AI backends, data extraction, ERP-style bus
 
 ### 🎓 Education
 
-- **M.Sc. Artificial Intelligence** · SRH University Berlin · 2023 – present (focus: Big Data & AI)
+- **M.Sc. Artificial Intelligence** · SRH University Berlin · 2023 – 2026 (focus: Big Data & AI)
 - **B.Sc. Computer Engineering** · Azad University (IAU), Urmia · 2018 – 2022
 
 ### 🌍 Languages
