@@ -1,14 +1,20 @@
 # Hi, I'm Amirreza Soltani 👋
 
+
 **Software Engineer · Backend · AI/ML · Mobile** — Berlin, Germany
+
 
 I'm a software engineer with 3+ years of experience building backend services, AI-powered applications and automation tools. I like taking an idea from prototype to a Dockerized, production-ready service, with clean APIs, solid data models and pragmatic ML.
 
+
 🟢 **Open to work:** Backend, Full-Stack, Python / AI-ML Engineer roles (Berlin, on-site, hybrid or remote)
+
 
 ---
 
+
 ### 🛠 Tech Stack
+
 
 **Languages:** Python · JavaScript (Node.js) · Dart · SQL  
 **Backend:** Node.js / Express · Flask · FastAPI-style REST APIs · Telegram Bots  
@@ -17,9 +23,12 @@ I'm a software engineer with 3+ years of experience building backend services, A
 **Mobile:** Flutter  
 **DevOps:** Docker · docker-compose · Git · GitHub Actions · Linux
 
+
 ---
 
+
 ### 🚀 Featured Projects
+
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -31,17 +40,15 @@ I'm a software engineer with 3+ years of experience building backend services, A
 | [**Store Manager Backend**](https://github.com/AmirrezaSoltani/Store_manager_backend) | REST API for store / inventory management | Node.js · Express · MongoDB |
 | [**Payment Invoice Fetcher & Proxy**](https://github.com/AmirrezaSoltani/Paystar-Invoice-Fetcher) | Service that syncs payment-gateway invoices with token refresh and compressed uploads, plus a [Flask proxy](https://github.com/AmirrezaSoltani/request_proxy) | Node.js · Python · Flask |
 
----
-
-### 📊 GitHub Stats
-
-![Amirreza's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirrezaSoltani&show_icons=true&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirrezaSoltani&layout=compact&hide_border=true)
 
 ---
+
 
 ### 📫 Let's connect
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirrezasoltanii/)
 
+
 I'm happy to talk about backend engineering, AI tools, or job opportunities.
+
